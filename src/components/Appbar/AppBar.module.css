@@ -1,0 +1,10 @@
+.link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.active-link {
+  compose: link;
+  color: #000;
+  font-weight: 700;
+}
